@@ -21,6 +21,9 @@
  ## Contributing
  Jacob Taylor, Stack Overflow, Google
  
+ ## Visuals
+ ![image](Develop/utils/video.png)
+ 
  ## Tests
  N/A
  

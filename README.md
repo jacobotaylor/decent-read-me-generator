@@ -1,8 +1,8 @@
-# read me
+# Read Me Generator
   ![license](https://img.shields.io/badge/license-MIT-green)
 
   ## Description
- this is my read me
+ This app allows you to create a README by just filling out some prompts!
  
  ## Table of Contents
  * [Description](#description)
@@ -16,15 +16,19 @@
  npm install
  
  ## Instructions
- run node index.js
+ In your intergrated terminal, enter node index.js
  
  ## Contributing
- me and stack overflow
+ Jacob Taylor, Stack Overflow, Google
  
  ## Tests
- hard
+ N/A
  
  ## Questions
- asdfasdf
+ jacobtaylorclt@gmail.com
+
+ ## Walkthrough Video
+
+ https://watch.screencastify.com/v/Up3waTjW8CQcrrCJ6dTz
  
  
